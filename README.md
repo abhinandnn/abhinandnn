@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on [TypingThunder](https://github.com/abhinandnn/typingthunder)
 
 - 🌱 I’m currently learning **Next JS**
-
-- 📫 How to reach me **abhinandnn21@gmail.com**
   
 
 ## 🌐 Socials:
