@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Pandey</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandnn" alt="abhinandnn" /></a> </p>
-
 - 🔭 I’m currently working on [TypingThunder](https://github.com/abhinandnn/typingthunder)
 
 - 🌱 I’m currently learning **Next JS**
