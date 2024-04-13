@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Pandey</h1>
 <h3 align="center">Frontend Developer | Competitive Programmer</h3>
 
-- 🔭 I’m currently working on [TypingThunder](https://github.com/abhinandnn/typingthunder)
+- 🎓 Pursuing Bachelor's Degree in Computer Science Engineering.
 
-- 🌱 I’m currently learning **Next JS**
+- 👨‍💻 Frontend Web Developer ReactJS | NextJS
+
+- 🌱 I’m currently learning **Node JS**
 
 
 ## 🌐 Socials:
